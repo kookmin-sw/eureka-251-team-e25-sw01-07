@@ -50,7 +50,7 @@
 
 ***
 
-## 3️⃣ 한학기 동안의 활동 내역 (TO BE CONTiNUED . . .)
+## 3️⃣ 한학기 동안의 활동 내역 (TO BE CONTINUED . . .)
 
 - 기관/부서 인터뷰 ✔️  
 
@@ -68,22 +68,18 @@
 
 - 각오와 소감 나누기 ✔️  
 
-
-<!-- 활동 사진 추가 예시 -->
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
+<!-- 활동 사진 추가하기 -->
 
 ***
 
-## 4️⃣ 인상 깊은 활동 (TO BE CONTiNUED . . .)
+## 4️⃣ 인상 깊은 활동 (TO BE CONTINUED . . .)
 
 - 활동명 – 활동에 대한 간단한 설명과 배운 점을 작성  
 - 예: 멘토링에서 실리콘밸리 현업 경험을 들을 수 있어 진로 방향 설정에 큰 도움이 되었다.  
 
 ***
 
-## 5️⃣ 특별히 알아보고 싶은 것 (TO BE CONTiNUED . . .)
+## 5️⃣ 특별히 알아보고 싶은 것 (TO BE CONTINUED . . .)
 
 - 예: 현장실습 제도
 - 예: TOPCIT 정기평가
@@ -91,7 +87,7 @@
 
 ***
 
-## 6️⃣ 활동을 마친 소감 (TO BE CONTiNUED . . .)
+## 6️⃣ 활동을 마친 소감 (TO BE CONTINUED . . .)
 
 🔗학번 이름  
 > "소감 내용을 여기에 작성합니다."
