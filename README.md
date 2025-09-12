@@ -1,14 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
-# Welcome to 7팀
+# Welcome to 7팀 : 동휘선배님과 chil(7)dren
 
 ## 1️⃣ 팀원 소개
 
 | **이름** | **전공** | **자기 소개** |
 | --- | --- | --- |
 | **김동휘** | 소프트웨어전공 | 졸업(막학기) ㅜㅜ 가지마요, LOL(다이아) |
-| **김종호** | 소프트웨어전공 | 황선태 교수님 |
+| **김종호** | 소프트웨어전공 | 황선태 교수님 애정해요 |
 | **김해인** | 소프트웨어전공 | 야구덕후(삼성 우승 가자) |
-| **류 진** | 소프트웨어전공 |  |
+| **류 진** | 소프트웨어전공 | 99지만 새내깁니다 ㅎㅅㅎ |
 | **김도현** | 소프트웨어전공 | 우리와 함께해줘 . . .(수업 불참) |
 
 
