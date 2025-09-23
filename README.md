@@ -112,30 +112,40 @@
 <p align="left">
   <img src="https://github.com/user-attachments/assets/8dc4bc88-38e7-45ae-b563-aa9f94393198" alt="스마트주방" width="200" align="left"/>
   1. 스마트 주방<br>스마트 주방은 주방 환경에서 디지털 기기와 네트워크를 통해 자동화 및 제어를 가능케 하는 기술을 의미합니다.
+  <br><br><br><br><br><br>
+  <img src="https://github.com/user-attachments/assets/205d1982-b35f-4e3c-aab4-69965b5b9491" alt="smartDisplay" width="200" align="left"/> 
+  2. smart interactive displays<br>터치스크린 기반의 대형 화면으로, 교육 및 비즈니스 환경에서 협업, 상호작용, 콘텐츠 소비를 가능하게 하는 기기입니다.
+  <br><br><br><br><br>
+  <img src="https://github.com/user-attachments/assets/29389a69-12be-4c0f-86b7-6c776ce9c29c" alt="robot" width="200" align="left"/>
+  3. 원격 화상 진료<br>원격 화상 진료는 의사 대신 로봇이 환자를 직접 검사하고, 그 정보를 바탕으로 의사가 처방을 내립니다.<br><br><br><br><br><br><br><br><br><br>
 </p>  
-<br><br><br><br>
    
 #### 느낀 점
 | **이름** | **느낀 점** |
 | --- | --- |
-| **김동휘** | <blockquote>업데이트 중</blockquote> |
-| **김종호** | <blockquote>업데이트 중</blockquote> |
+| **김동휘** | 1965년 이정문 화백의 2000년대의 미래에 대한 상상의 대부분이 현대 기술로 구현이<br>가능하다는 점이 놀라웠습니다. 또한 인터뷰 내용 중 꿈과 상상은 반드시<br>이루어진다는 말씀이 인상적이였습니다. |
+| **김종호** | 이정문 화백님께서 그 당시 세계적인 과학기술에 얼마나 많은 관심을 가졌는지 알게되었고, 그의 창의력이 경이롭다. |
 | **김해인** | 이화백님의 tv를 향한 사랑이 느껴졌습니다. 그리고 그 당시 이런 생각을 하셨다는게 너무 놀라웠습니다. | 
 | **류 진** | <blockquote>업데이트 중</blockquote> |
 
 ### Team Mission 2 - 90년대 뉴스/코닝 비전/Microsoft가 예측한 미래 (영상 자료)
 #### 현재 실현된 기술
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/49d673a1-b759-444a-8719-d5405ba51a9e" alt="자율주행자동차" width="200" align="left"/>
-  1. 자율주행자동차<br>자율주행자동차란 운전자의 개입 없이 주변 환경을 인식하고 <br>주행 상황을 판단해 차량을 제어함으로써 <br>스스로 주어진 목적지까지 주행하는 자동차입니다.
+  <img src="https://github.com/user-attachments/assets/49d673a1-b759-444a-8719-d5405ba51a9e" alt="자율주행자동차" width="200" align="left"/> 
+  1. 자율주행자동차<br>자율주행자동차란 운전자의 개입 없이 주변 환경을 인식하고 <br>주행 상황을 판단해 차량을 제어함으로써 <br>스스로 주어진 목적지까지 주행하는 자동차입니다.<br><br><br><br>
+  <img src="https://github.com/user-attachments/assets/4fe1ae15-44a7-46b8-8cb9-fe10b54eb419" alt="비행자동차" width="200" align="left"/>
+  2. 하늘을 나는 자동차<br>하늘을 나는 자동차는 하늘을 날 수 있게 설계된 자동차입니다. <br><br><br><br><br>
+  <img src="https://github.com/user-attachments/assets/cf04c70b-0695-45dc-9936-64cf741c2b1c" alt="AutoStereo" width="200" align="left"/>
+  3. Auto stereoscopic 3D displays<br>
+특수 헤드기어, 안경, 또는 시청자의 시력에 영향을 미치는 다른 장치 없이 입체 영상을 표시하는 기술
 </p>
 
 <br><br><br>
 #### 느낀 점
 | **이름** | **느낀 점** | 
 | --- | --- | 
-| **김동휘** | <blockquote>업데이트 중</blockquote> | 
-| **김종호**    | <blockquote>업데이트 중</blockquote> | 
+| **김동휘** | "Microsoft Future Vision", "유리와 함께하는 하루"의 영상을 통해<br>2010년대에 사람들이 상상한 미래들이 흥미로웠고 일부 기술들이 구현 되었다는<br>점에서 기술 성장 속도가 빠르다는 느낌을 받았습니다. 현재 2020년대의 사람들은 어떤 미래를 상상하는지 궁금해졌습니다. | 
+| **김종호**    | 현재의 삶도 편하다고 느꼈건만 더 편한 미래가 있을 수도 있겠다는 생각에 놀라웠고 앞으로의 변화가 정말로 기대된다. | 
 | **김해인**    | 영상 중에서 유리의 삶이 가장 인상깊었습니다. 왜냐하면 가장 충격적이었기 때문입니다.<br>저의 삶이 굉장히 편해지겠지만 영상을 보는 내내 저 스스로가 무능해짐을 느낄 수 있었습니다. <br>또한 저는 아이들의 성장과정에서의 소근육 발달 문제나 활동 부족 문제를 야기할 것 같아 걱정이 되었습니다. <br>또한 집 안 곳곳에 디스플레이가 있어서 저는 감시당하는 기분이 들어 불쾌하기도 했습니다. <br>하지만 이러한 기술이 장애를 가진 사람들에게는 날개를 달아줄 수도 있다는 점에서 오묘한 감정을 느꼈습니다. | 
 | **류 진** | <blockquote>업데이트 중</blockquote> | 
   
