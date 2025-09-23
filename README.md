@@ -137,10 +137,10 @@
   2. 하늘을 나는 자동차<br>하늘을 나는 자동차는 하늘을 날 수 있게 설계된 자동차입니다. <br><br><br><br><br>
   <img src="https://github.com/user-attachments/assets/cf04c70b-0695-45dc-9936-64cf741c2b1c" alt="AutoStereo" width="200" align="left"/>
   3. Auto stereoscopic 3D displays<br>
-특수 헤드기어, 안경, 또는 시청자의 시력에 영향을 미치는 다른 장치 없이 입체 영상을 표시하는 기술
+특수 헤드기어, 안경, 또는 시청자의 시력에 영향을 미치는 다른 장치 없이 입체 영상을 표시하는 기술입니다.
 </p>
 
-<br><br><br>
+<br><br><br><br>
 #### 느낀 점
 | **이름** | **느낀 점** | 
 | --- | --- | 
