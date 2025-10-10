@@ -176,7 +176,7 @@
 
 ## 6주차 활동내역 : 미래를 상상해서 그려보자
 1. 클라우드 컴퓨팅 기술이 내재된 팬 ( 종이 )
-  <img width="500" alt="펜" src="https://raw.githubusercontent.com/kookmin-sw/eureka-251-team-e25-sw01-07/refs/heads/main/%ED%8E%9C">
+  <img width="500" alt="펜" src="https://raw.githubusercontent.com/kookmin-sw/eureka-251-team-e25-sw01-07/refs/heads/main/%ED%8E%9C.png">
 2. 인간 세차장 ( 샤워가 되는 기계 )
 3. 어디로든 문 ( 순간이동 기계 ) + 1인용 헬리콥터
    <img width="500" alt="순간이동 기계" src="https://github.com/user-attachments/assets/b136c68f-c30d-4225-ace1-635566033ba9" />
