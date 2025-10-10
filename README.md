@@ -178,7 +178,7 @@
 1. 클라우드 컴퓨팅 기술이 내재된 팬 ( 종이 )
 2. 인간 세차장 ( 샤워가 되는 기계 )
 3. 어디로든 문 ( 순간이동 기계 ) + 1인용 헬리콥터
-   <img width="1024" height="1536" alt="순간이동 기계" src="https://github.com/user-attachments/assets/b136c68f-c30d-4225-ace1-635566033ba9" />
+   <img width="500" alt="순간이동 기계" src="https://github.com/user-attachments/assets/b136c68f-c30d-4225-ace1-635566033ba9" />
 
 4. 발전된 비전 프로 ( 안경형 컴퓨터 )
 5. 시각장애인을 위한 음성인식형 고도화 AI
