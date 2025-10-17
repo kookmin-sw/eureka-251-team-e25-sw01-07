@@ -178,12 +178,12 @@
 1. 클라우드 컴퓨팅 기술이 내재된 팬 ( 종이 )<br>
   <img width="500" alt="펜" src="https://raw.githubusercontent.com/kookmin-sw/eureka-251-team-e25-sw01-07/refs/heads/main/%ED%8E%9C.png"><br>
 2. 인간 세차장 ( 샤워가 되는 기계 )<br>
-   ![인간세차장](https://github.com/user-attachments/assets/2a796dc4-93eb-4191-8b5c-5144239aa5d0)
-4. 어디로든 문 ( 순간이동 기계 ) + 1인용 헬리콥터<br>
+  <img width="500" alt="펜" src="https://github.com/user-attachments/assets/bf693bcd-511b-4657-a942-dfe3ff144fa3"><br>
+3. 어디로든 문 ( 순간이동 기계 ) + 1인용 헬리콥터<br>
    <img width="500" height="1536" alt="순간이동 기계" src="https://github.com/user-attachments/assets/c1478565-5ea3-4b5f-81c3-4ab3dfcf4ba6" /><br>
-5. 사랑의 물약 ()<br>
+4. 사랑의 물약 ()<br>
    <img width="500" alt="사랑의물약w사람" src="https://github.com/user-attachments/assets/851977d2-8056-42b0-a93c-5eae498fa6a2" /><br>
-6. 1 가구 1 베이맥스 ( 가정용 돌봄-의료로봇 )
+5. 1 가구 1 베이맥스 ( 가정용 돌봄-의료로봇 )<br>
    <img width="500"  alt="베이맥스" src="https://github.com/user-attachments/assets/cd284a59-bd14-475c-acdd-0da05c4619d7" />
 
 
