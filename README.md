@@ -1,3 +1,5 @@
+<img width="1000"  alt="Blue White Scrapbook Climate Change Campaign Poster (포스터)" src="https://github.com/user-attachments/assets/6bda49db-c1b0-4d5b-833d-230fb5d12789" />
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
 # Welcome to 7팀 : 동휘선배님과 chil(7)dren
 
