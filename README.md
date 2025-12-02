@@ -240,6 +240,7 @@ A5. 시험공부는 수업이 끝난 직후 최대한 빨리 복습하는 것이
 ***
 
 ## 💡 12주차 활동 : 나의 지도 교수님 만나기
+<img width="500"  alt="나의지도교수님만나기" src="https://github.com/user-attachments/assets/7248b1ba-f8ee-4efe-866d-cf2b95c9f8a7" /> <br>
 
 ### <황선태 교수님 Interveiw 보고서>
 
