@@ -1,4 +1,4 @@
-## 경 🏆 인기상 수여 🏆 축
+# 경 🏆 7팀 인기상 수여 🏆 축
 
 <img width="1000"  alt="Blue White Scrapbook Climate Change Campaign Poster (포스터)" src="https://github.com/user-attachments/assets/6bda49db-c1b0-4d5b-833d-230fb5d12789" />
 
@@ -175,9 +175,8 @@
 ***
 
 ## 💡 활동 : 아이디어 멘토링
-멘토님의 피드백 
 
-Key Point " 수요가 있나 ? 관련 기술이 어느 정도 개발이 되었나 ? "
+### Key Point " 수요가 있나 ? 관련 기술이 어느 정도 개발이 되었나 ? "
 
 1. 스마트 팬 <br>
 멘토)) 해당 기술에 대해 수요가 과연 있나요 ? 대체 시장(키보드 등)에 대해서 고민해볼 필요가 있을 것 같아요.
