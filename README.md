@@ -1,4 +1,4 @@
-# 경 🏆 7팀 인기상 수여 🏆 축
+# 경 🏆 SW-7팀 인기상 수여 🏆 축
 
 <img width="1000"  alt="Blue White Scrapbook Climate Change Campaign Poster (포스터)" src="https://github.com/user-attachments/assets/6bda49db-c1b0-4d5b-833d-230fb5d12789" />
 
