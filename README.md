@@ -201,6 +201,7 @@
 ***
 
 ## 💡 활동 : 대학원 선배 만나기
+<img width="500"  alt="대학원선배님만나기" src="https://github.com/user-attachments/assets/2b5769c5-16c7-45da-a73c-cd65200f46dc" />
 ### <정진우 선배님 Q&A> <br>
 #### Q1. 공부하고 계신 분야에 대해 더 공부하고 싶다고 생각하게 된 계기가 무엇인가요?
 
